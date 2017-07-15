@@ -47,10 +47,3 @@ puts welcome_messages.sample
 sleep 2
 puts
 puts answers.sample
-
-
-
-
-
-
-
